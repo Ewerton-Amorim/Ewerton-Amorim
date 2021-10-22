@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ewerton-Amorim
+- 👋  Olá,  me chamo Ewerton
 - 👀 I’m interested in  adentrar no mundo da programação  dia após dia
 - 🌱 I’m currently learning  a linguagem python
 - 💞️ I’m looking to collaborate  com o desenvolvimento  de todos que precisarem e, claro, no meu desenvolvimento dentro do universo da programação
